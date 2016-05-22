@@ -1,0 +1,13 @@
+.vs/
+artifacts/
+bin/
+node_modules/
+obj/
+packages/
+
+*.csproj.user
+*.DotSettings.user
+*.feature.cs
+*.tmp
+
+npm-debug.log
