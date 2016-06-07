@@ -10,4 +10,5 @@ packages/
 *.feature.cs
 *.tmp
 
+AppSettings.config
 npm-debug.log

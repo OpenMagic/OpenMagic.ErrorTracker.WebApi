@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMagic.ErrorTracker.WebApi", "source\OpenMagic.ErrorTracker.WebApi\OpenMagic.ErrorTracker.WebApi.csproj", "{D0F3A1D7-ED21-46E7-90EE-E461A5249283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMagic.ErrorTracker.WebApi.Specifications", "tests\OpenMagic.ErrorTracker.WebApi.Specifications\OpenMagic.ErrorTracker.WebApi.Specifications.csproj", "{AD399866-520B-4E4C-8A90-88A5F5F55E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F3A1D7-ED21-46E7-90EE-E461A5249283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F3A1D7-ED21-46E7-90EE-E461A5249283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F3A1D7-ED21-46E7-90EE-E461A5249283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F3A1D7-ED21-46E7-90EE-E461A5249283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD399866-520B-4E4C-8A90-88A5F5F55E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD399866-520B-4E4C-8A90-88A5F5F55E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD399866-520B-4E4C-8A90-88A5F5F55E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD399866-520B-4E4C-8A90-88A5F5F55E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
